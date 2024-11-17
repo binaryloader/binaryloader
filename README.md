@@ -1,8 +1,8 @@
-## 소개말
+## Introduction
 
-안녕하세요 👋  
-저는 소프트웨어 엔지니어입니다.
+Hi there 👋  
+I'm a Software Engineer.
 
-## 정보
+## Info
 
-- 블로그 : https://blog.binaryloader.com
+- Blog: https://blog.binaryloader.com
