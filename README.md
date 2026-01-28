@@ -5,5 +5,5 @@ I'm a Software Engineer.
 
 ## Info
 
-- Blog : https://blog.binaryloader.com
+- Blog : https://blog.binaryloader.io
 - Email : [](mailto:)
