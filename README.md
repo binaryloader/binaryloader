@@ -6,4 +6,3 @@ I'm a Software Engineer.
 ## Info
 
 - Blog : https://blog.binaryloader.io/en
-- Email : [](mailto:)
