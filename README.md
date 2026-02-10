@@ -7,4 +7,4 @@ I'm a Software Engineer who loves solving real-world problems.
 ## 📫 Links
 
 - 📝 **Blog:** [blog.binaryloader.io/en](https://blog.binaryloader.io/en)
-- 🏢 **Team:** @wookbros
+- 🏢 **Team:** [@wookbros](https://github.com/wookbros)
